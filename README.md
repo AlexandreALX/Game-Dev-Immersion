@@ -5,7 +5,7 @@
 
 # Technologies used
 [![Javascript](https://img.shields.io/badge/JavaScript-%3E%3D%20ES6%2B-black)](https://www.javascript.com/)
-[![P5](https://img.shields.io/badge/P5-JavaScript-black)](https://p5js.org/)
+[![P5](https://img.shields.io/badge/P5-Lib-black)](https://p5js.org/)
 
 </p>
 
